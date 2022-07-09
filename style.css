@@ -1,0 +1,8 @@
+h1 {
+    font-size: 40px !important;
+    color: blue;
+}
+
+canvas {
+    border: 3px dotted black;
+}
